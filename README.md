@@ -5,12 +5,11 @@ Architecture pattern repository contains all artifacts related to a pattern crea
 
 # Repository Structure
 
-Repo
-  Pattern
-    poc
-      code
-      results
-     artifacts
+Repo->Pattern
+Repo->Pattern->poc
+Repo->Pattern->poc->code
+Repo->Pattern->poc->results
+Repo->Pattern->artifacts
                 
 Pattern Folder
 --------------
