@@ -27,3 +27,7 @@ artifact folder
 --------------
 artifact folder contains all the documents delivered part of the pattern work. These documents can be of any ppt, winword, excel, text files etc., These artifacts will be stored as a binary file
 
+# Pattern category list
+
+## Microservice
+  This category contains the patterns related to microservice
